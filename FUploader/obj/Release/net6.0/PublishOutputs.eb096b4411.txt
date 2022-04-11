@@ -1,0 +1,11 @@
+C:\Users\Alen\source\repos\FUploader\FUploader\obj\Release\net6.0\PubTmp\Out\FUploader.exe
+C:\Users\Alen\source\repos\FUploader\FUploader\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Alen\source\repos\FUploader\FUploader\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Alen\source\repos\FUploader\FUploader\obj\Release\net6.0\PubTmp\Out\FUploader.dll
+C:\Users\Alen\source\repos\FUploader\FUploader\obj\Release\net6.0\PubTmp\Out\FUploader.deps.json
+C:\Users\Alen\source\repos\FUploader\FUploader\obj\Release\net6.0\PubTmp\Out\FUploader.runtimeconfig.json
+C:\Users\Alen\source\repos\FUploader\FUploader\obj\Release\net6.0\PubTmp\Out\FUploader.pdb
+C:\Users\Alen\source\repos\FUploader\FUploader\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Alen\source\repos\FUploader\FUploader\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Alen\source\repos\FUploader\FUploader\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Alen\source\repos\FUploader\FUploader\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
